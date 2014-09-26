@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
 	    	  }
 	    	  else
 	    	  {
-	    		  msbox ("Uzi",val);
+	    		  msbox ("Uzi 1",val);
 	    	  }
 	    	  
  	      }
